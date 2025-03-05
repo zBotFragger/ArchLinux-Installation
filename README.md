@@ -59,7 +59,7 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 ### Algo parecido com isso irá aparecer:
 ![](assets/deviceList.bmp)
 
-### Utilizar "station nome do dispositivo get-networks" para listar as redes.
+### Utilizar "station nomeDoDispositivo get-networks" para listar as redes.
 ### Exemplo: station wlan0 get-networks, para buscar redes com o wlan0.
 >```
 >station seuDispositivoDeRede get-networks
