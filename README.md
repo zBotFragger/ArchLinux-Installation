@@ -25,3 +25,5 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 ![Mirrors do Brasil](/assets/mirrors.png )
 #### Download via Torrent
 ![Mirrors do Brasil](/assets/torrents.png)
+
+#### Após o ter configurado o pendrive bootavel com o sistema, vamos iniciar a máquina com o boot selecionando o ArchLinux.
