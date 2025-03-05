@@ -65,3 +65,7 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 >station seuDispositivoDeRede get-networks
 >```
 
+### Algo parecido com isso irá aparecer:
+![](assets/getNetworks.bmp)
+
+
