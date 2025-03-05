@@ -77,3 +77,8 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 >```
 
 ### Exemplo: station wlan0 connect nomeDaSuaRede, para conectar na sua rede wi-fi.
+
+### OBS: O nome da rede tem que ser digitado exxatamente como foi exibido no passo anterior, letras maiúsculas, minúsculas e símbolos.
+
+### Caso tudo tenha sido efetuado corretamente, será solicitada a senha da sua rede.
+### Digite o password da rede e tecle enter.
