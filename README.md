@@ -51,3 +51,10 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 #### A seguinte tela será exibida:
 ![](assets/iwctl.png)
 
+### Utilizar o comando "device list" para listar os dispositivos de rede disponíveis.
+
+>```
+>device list
+>```
+### Algo parecido com isso irá aparecer:
+![](assets/deviceList.bmp)
