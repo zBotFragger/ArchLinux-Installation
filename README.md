@@ -31,22 +31,23 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 #### Após iniciar o sistema, você verá a seguinte tela:
 ![](assets/telaInicialArchLinux.png)
 
-### Agora, para evitar erros de digitação, iremos configurar o a região do teclado com o seguite comando:
+#### Agora, para evitar erros de digitação, iremos configurar o a região do teclado com o seguite comando:
 
 > ```shell
 > loadkeys br-abnt2
 > ```
 
-### Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
+#### Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
 
 [loadkeys](https://wiki.archlinux.org/title/Linux_console_(Portugu%C3%AAs)/Keyboard_configuration_(Portugu%C3%AAs))
 
-### Com o teclado já configurado, iremos verificar se nossa máquina está conecctada à internet. (Opcional caso esteja conectada via cabo).
-Usaremos o comando:
+#### Com o teclado já configurado, iremos verificar se nossa máquina está conecctada à internet. (Opcional caso esteja conectada via cabo).
+#### Usaremos o comando:
 
 >```
 >iwctl
 >```
 
-
+#### A seguinte tela será exibida:
+![](assets/iwctl.png)
 
