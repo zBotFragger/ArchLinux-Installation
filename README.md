@@ -86,3 +86,8 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 ### Caso tudo tenha sido efetuado corretamente, será solicitada a senha da sua rede.
 ### Digite o password da rede e tecle enter.
 ### Será direcionado para a página inicial do iwd e nenhum erro será exibido.
+
+### Para sair do iwd, basta digitar exit e apertar enter ou apertar Ctrl + c.
+### Para fazer o teste, se a máquina está corretamente conectada à internet, basta fazer o test de ping.
+### Exemplo: ping 8.8.8.8 (DNS do Google)
+### Se nenhum erro for apresentado, o wi-fi foi configurado corretamente.
