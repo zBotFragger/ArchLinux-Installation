@@ -40,3 +40,13 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 ### Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
 
 [loadkeys](https://wiki.archlinux.org/title/Linux_console_(Portugu%C3%AAs)/Keyboard_configuration_(Portugu%C3%AAs))
+
+### Com o teclado já configurado, iremos verificar se nossa máquina está conecctada à internet. (Opcional caso esteja conectada via cabo).
+Usaremos o comando:
+
+>```
+>iwctl
+>```
+
+
+
