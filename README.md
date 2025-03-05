@@ -18,7 +18,10 @@
 Primeiramente, você deve baixar o arquivo .iso do sistema ArchLinux.
 Para efetuar o download, você irá acessar o site oficial da distribuição [ArchLinux](https://archlinux.org/download/).
 
-Na página de downloads, você pode escolher entra baixar o arquivo via Torrent ou via link direto.
+Na página de downloads, você pode escolher entre baixar o arquivo via Torrent ou via link direto.
 Obs: para baixar via torrent, você vai necessitar de um aplicativo específico (Qbitorrent ou Bitorrent).
 
-
+#### Link direto com mirrors do Brasil:
+![Mirrors do Brasil](/assets/mirrors.png )
+#### Download via Torrent
+![Mirrors do Brasil](/assets/torrents.png)
