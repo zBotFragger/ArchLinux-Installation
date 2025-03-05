@@ -33,7 +33,9 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 
 ### Agora, para evitar erros de digitação, iremos configurar o a região do teclado com o seguite comando:
 
-````sh loadkeys br-abnt2 ````
+> ```shell
+> loadkeys br-abnt2
+> ```
 
 ### Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
 
