@@ -67,12 +67,12 @@ Obs: para baixar via torrent, você vai necessitar de um aplicativo específico 
 ### Algo parecido com isso irá aparecer:
 ![](assets/getNetworks.bmp)
 
-### Após descobrir o nome do seu dispositivo de rede e o nome da sua rede, vamos realmente conectar sua máquina no wi-fi.
+### Após descobrir o nome do seu dispositivo de rede e o nome da sua rede wi-fi, vamos realmente conectar sua máquina no wi-fi.
 
 ### Utilize o comando a seguir:
 
 >```
->station nome do dispositivo connect nome da rede
+>station nomeDoDispositivo connect nomeDaSuaRede
 >```
 
 ### Exemplo: station wlan0 connect nomeDaSuaRede, para conectar na sua rede wi-fi.
