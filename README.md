@@ -3,11 +3,14 @@
 ## ArchLinux Installation, By Archinstall.
 
 ### Índice
-[História do ArchLinux](#breve-história-sobre-o-archlinux)\
+[História do ArchLinux](#breve-história-sobre-o-archlinux)  
 [Instalação](#instruções-de-instalação)
--    [Criação do pendrive Bootavel](#criação-do-pendrive-bootável)
--    [Configuração do Teclado](#configuração-do-teclado)
--    [Configuração de rede](#configuração-da-rede-wi-fi)
+- [Criação do pendrive Bootável](#criação-do-pendrive-bootável)  
+- [Configuração do Teclado](#configuração-do-teclado)  
+- [Configuração de rede](#configuração-da-rede-wi-fi)
+- [Teste da rede wi-fi](#teste-de-conexão-de-rede)
+
+
 
 
 
@@ -101,8 +104,9 @@ Caso tenha sido efetuado corretamente, irá aparecer a seguinte tela:
 Caso tudo tenha sido efetuado corretamente, será solicitada a senha da sua rede.
 Digite o password da rede e tecle enter.
 Será direcionado para a página inicial do iwd e nenhum erro será exibido.
-
 Para sair do iwd, basta digitar exit e apertar enter.
+
+#### Teste de conexão de rede:
 Para fazer o teste, se a máquina está corretamente conectada à internet, basta fazer o test de ping.
 Exemplo: ping 8.8.8.8 (DNS do Google)
 Se nenhum erro for apresentado, o wi-fi foi configurado corretamente.
