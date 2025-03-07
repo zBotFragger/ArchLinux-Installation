@@ -3,11 +3,11 @@
 ## ArchLinux Installation, By Archinstall.
 
 ### Índice
-[História do ArchLinux](#breve-história-sobre-o-archlinux)\
-[Instalação](#instruções-de-instalação)\
-[Criação do pendrive Bootavel](#criação-do-pendrive-bootável)\
-[Configuração do Teclado](#configuração-do-teclado)\
-[Configuração de rede](#configuração-da-rede-wi-fi)
+-[História do ArchLinux](#breve-história-sobre-o-archlinux)\
+-[Instalação](#instruções-de-instalação)
+-    [Criação do pendrive Bootavel](#criação-do-pendrive-bootável)\
+-    [Configuração do Teclado](#configuração-do-teclado)\
+-    [Configuração de rede](#configuração-da-rede-wi-fi)
 
 
 
