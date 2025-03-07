@@ -58,7 +58,7 @@ Agora, para evitar erros de digitação, iremos configurar o a região do teclad
 
 Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
 
-[loadkeys](https://wiki.archlinux.org/title/Linux_console_(Portugu%C3%AAs)/Keyboard_configuration_(Portugu%C3%AAs))
+Verifique a documentação referente à configuração do teclado no site oficial do sistema [loadkeys](https://wiki.archlinux.org/title/Linux_console_(Portugu%C3%AAs)/Keyboard_configuration_(Portugu%C3%AAs)).
 
 #### Configuração da rede wi-fi:
 
