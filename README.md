@@ -5,10 +5,13 @@
 ### Índice
 [História do ArchLinux](#breve-história-sobre-o-archlinux)  
 [Instalação](#instruções-de-instalação)
+
 - [Criação do pendrive Bootável](#criação-do-pendrive-bootável)  
 - [Configuração do Teclado](#configuração-do-teclado)  
 - [Configuração de rede](#configuração-da-rede-wi-fi)
-- [Teste da rede wi-fi](#teste-de-conexão-de-rede)
+- [Teste de rede](#teste-de-conexão-de-rede)
+
+
 
 
 
