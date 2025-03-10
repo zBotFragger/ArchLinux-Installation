@@ -39,14 +39,14 @@ Na página de downloads, você pode escolher entre baixar o arquivo via Torrent 
 Obs: para baixar via torrent, você vai necessitar de um aplicativo específico (Qbitorrent ou Bitorrent).
 
 #### Link direto com mirrors do Brasil:
-![Mirrors do Brasil](/assets/mirrors.png )
+![Mirrors do Brasil](.github/assets/mirrors.png )
 #### Download via Torrent
-![Mirrors do Brasil](/assets/torrents.png)
+![Mirrors do Brasil](.github/assets/torrents.png)
 
 Após o ter configurado o pendrive bootavel com o sistema, vamos iniciar a máquina com o boot selecionando o ArchLinux.
 
 Após iniciar o sistema, você verá a seguinte tela:
-![](assets/telaInicialArchLinux.png)
+![](.github/assets/telaInicialArchLinux.png)
 
 #### Configuração do teclado:
 
@@ -70,7 +70,7 @@ Usaremos o seguinte comando:
 >```
 
 A seguinte tela será exibida:
-![](assets/iwctl.png)
+![](.github/assets/iwctl.png)
 
 Utilizar o comando "device list" para listar os dispositivos de rede disponíveis.
 
@@ -78,7 +78,7 @@ Utilizar o comando "device list" para listar os dispositivos de rede disponívei
 >device list
 >```
 Algo parecido com isso irá aparecer:
-![](assets/deviceList.bmp)
+![](.github/assets/deviceList.bmp)
 
 Utilizar "station nomeDoDispositivo get-networks" para listar as redes.
 Exemplo: station wlan0 get-networks, para buscar redes com o wlan0.
@@ -86,7 +86,7 @@ Exemplo: station wlan0 get-networks, para buscar redes com o wlan0.
 >station seuDispositivoDeRede get-networks
 >```
 Algo parecido com isso irá aparecer:
-![](assets/getNetworks.bmp)
+![](.github/assets/getNetworks.bmp)
 
 Após descobrir o nome do seu dispositivo de rede e o nome da sua rede wi-fi, vamos realmente conectar sua máquina no wi-fi.
 
@@ -100,7 +100,7 @@ Exemplo: station wlan0 connect nomeDaSuaRede, para conectar na sua rede wi-fi.
 
 Caso tenha sido efetuado corretamente, irá aparecer a seguinte tela:
 
-![](assets/stationConnect.bmp)
+![](.github/assets/stationConnect.bmp)
 
 #### OBS: O nome da rede tem que ser digitado exatamente como foi exibido no passo anterior, letras maiúsculas, minúsculas e símbolos.
 
