@@ -91,7 +91,7 @@ Utilize o comando a seguir:
 
 Exemplo: station wlan0 connect nomeDaSuaRede, para conectar na sua rede wi-fi.
 
-Caso tenha sido efetuado corretamente, irá aparecer a seguinte tela:
+Caso tenha sido efetuado corretamente, será solicitado para você digitar o password da rede, como na tela seguinte:
 
 ![](.github/assets/stationConnect.bmp)
 
