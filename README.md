@@ -8,8 +8,7 @@
 
 - [Criação do pendrive Bootável](#criação-do-pendrive-bootável)  
 - [Configuração do Teclado](#configuração-do-teclado)  
-- [Configuração de rede](#configuração-da-rede-wi-fi)
-- [Teste de rede](#teste-de-conexão-de-rede)
+- [Configuração de rede](https://github.com/zBotFragger/Connect-ArchLinux-Wi-Fi)
 
 Este projeto tem como objetivo ajudar novos usuários que estão ingressando no mundo Linux, que assim como eu, testaram várias distribuições e acabram por chegar e, preferencialmente, escolherem o ArchLinux.
 
