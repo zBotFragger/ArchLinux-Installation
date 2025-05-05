@@ -47,6 +47,6 @@ Agora, para evitar erros de digitação, iremos configurar o a região do teclad
 ```
 loadkeys br-abnt2
 ```
-Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras estarão corretamente posicionados.
+Com isso, nosso teclado será configurado para o padrão abnt2 e os símbolos e letras e acentos estarão corretamente posicionados.
 
 Verifique a documentação referente à configuração do teclado no site oficial do sistema [loadkeys](https://wiki.archlinux.org/title/Linux_console_(Portugu%C3%AAs)/Keyboard_configuration_(Portugu%C3%AAs)).
